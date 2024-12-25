@@ -1,5 +1,4 @@
 # Game-Theory-Problems-Solver
-# Game Theory Problems Solver
 
 A comprehensive tool for solving various Game Theory problems, including N-player and 2-player games. This project offers both a Terminal and GUI interface for an interactive and intuitive user experience.
 
